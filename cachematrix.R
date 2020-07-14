@@ -1,4 +1,4 @@
-# This function stores the inverse of a matrix if it is already solved
+# This function stores the matrix and the inverse, if it is already solved
 # for. It contains a list of functions to set and obtain the matrix/inverse.
 
 makeCacheMatrix <- function(x = matrix()) {
